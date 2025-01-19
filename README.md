@@ -1,4 +1,14 @@
-## Olá!👋
+## Olá, eu sou o Renan!👋
+
+## Sobre Mim
+
+- 🌟 Sou um entusiasta de tecnologia e desenvolvimento de software.
+- 🎓 Formado em Gestão da Tecnologia da Informação e Graduando em Engenharia de Software.
+- 💻 Tenho noções em HTML, CSS, JavaScript e estou aprofundando meus estudos em Java.
+- 🌱 Atualmente, estou aprendendo desenvolvimento back-end.
+- 🚀 Meu objetivo é me tornar um desenvolvedor full stack.
+- 🤝 Adoro compartilhar conhecimento e colaborar em projetos.
+- 📫 Você pode me encontrar nas redes sociais abaixo.
 
 ## 📊 Minhas Estatísticas
 

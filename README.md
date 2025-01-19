@@ -23,7 +23,7 @@
   </tr>
 </table>
 
-## 🌐 Me acompanhe 📫
+## 🌐 Entre em contato comigo 📫
 
 <p>
   <a href="https://www.linkedin.com/in/renan-vitor-developer/" target="_blank">

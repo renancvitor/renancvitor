@@ -10,6 +10,14 @@
 - 🤝 Adoro compartilhar conhecimento e colaborar em projetos.
 - 📫 Você pode me encontrar nas redes sociais abaixo.
 
+# Meu Perfil no GitHub
+
+Aqui está o meu gráfico de contribuições de GitHub gerado pela ação do Snake Game:
+
+![GitHub Contribution Snake](https://github.com/renancvitor/renancvitor.github.io/blob/output/github-contribution-grid-snake.svg)
+
+![GitHub Contribution Snake Dark](https://github.com/renancvitor/renancvitor.github.io/blob/output/github-contribution-grid-snake-dark.svg)
+
 ## 📊 Minhas Estatísticas
 
 <table>

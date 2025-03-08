@@ -10,6 +10,8 @@
 - 🤝 Adoro compartilhar conhecimento e colaborar em projetos.
 - 📫 Você pode me encontrar nas redes sociais abaixo.
 
+![snake](https://raw.githubusercontent.com/renancvitor/renancvitor/main/assets/snake.svg)
+
 ## 📊 Minhas Estatísticas
 
 <table>

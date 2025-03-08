@@ -29,8 +29,8 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?color_snake=green&palette=github-dark # Aqui você alterou para 'green'
-          
+            dist/github-contribution-grid-snake-dark.svg?palette=custom&color_snake=green # Aqui você coloca a paleta personalizada com a cor da cobrinha
+
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
       - name: push github-contribution-grid-snake.svg to the output branch

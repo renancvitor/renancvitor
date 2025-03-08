@@ -10,8 +10,6 @@
 - 🤝 Adoro compartilhar conhecimento e colaborar em projetos.
 - 📫 Você pode me encontrar nas redes sociais abaixo.
 
-![snake](https://raw.githubusercontent.com/renancvitor/renancvitor/main/assets/snake.svg)
-
 ## 📊 Minhas Estatísticas
 
 <table>
@@ -24,9 +22,6 @@
     </td>
   </tr>
 </table>
-
-### 🏆 Conquistas
-<img src="https://github-profile-trophy.vercel.app/?username=renancvitor&theme=algolia&column=4&no-bg=true" alt="Troféus do GitHub">
 
 ### 👀 Visitantes
 <img src="https://komarev.com/ghpvc/?username=renancvitor&color=blue&style=flat" alt="Contador de Visitantes">

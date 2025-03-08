@@ -23,6 +23,12 @@
   </tr>
 </table>
 
+### 🏆 Conquistas
+<img src="https://github-profile-trophy.vercel.app/?username=renancvitor&theme=algolia&column=4&no-bg=true" alt="Troféus do GitHub">
+
+### 👀 Visitantes
+<img src="https://komarev.com/ghpvc/?username=renancvitor&color=blue&style=flat" alt="Contador de Visitantes">
+
 ## 🌐 Entre em contato comigo 📫
 
 <p>

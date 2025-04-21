@@ -31,7 +31,7 @@
 
 ## 🏆 Destaques
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=renancvitor&theme=onedark&no-frame=true&no-bg=true&column=4&title=Commits,Repositories,Experience,Followers)
+![Trophy](https://github-profile-trophy.vercel.app/?username=renancvitor&theme=tokyonight&no-frame=true&no-bg=true&column=4&title=Commits,Repositories,Experience,Followers)
 
 ### 👀 Visitantes
 <img src="https://komarev.com/ghpvc/?username=renancvitor&color=blue&style=flat" alt="Contador de Visitantes">

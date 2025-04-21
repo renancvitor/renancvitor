@@ -16,6 +16,10 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/renancvitor/renancvitor/output/github-contribution-grid-snake.svg">
 </picture>
 
+## 🏆 Meus Troféus do GitHub
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=renancvitor&theme=radical&no-frame=true&column=7)
+
 ## 📊 Minhas Estatísticas
 
 <table>

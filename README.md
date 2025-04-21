@@ -33,10 +33,10 @@
 
 <table>
   <tr>
-    <td style="width: 50%; text-align: center;">
+    <td>
       <img src="https://github-profile-trophy.vercel.app/?username=renancvitor&theme=onedark&no-frame=true&no-bg=true&title=Commits,Repositories,Experience,Followers" alt="Trophies" height="200">
-    </td>
-    <td style="width: 50%; text-align: center;">
+     </td>
+    <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=renancvitor&theme=radical" alt="GitHub Streak" height="200">
     </td>
   </tr>

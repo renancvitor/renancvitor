@@ -16,18 +16,6 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/renancvitor/renancvitor/output/github-contribution-grid-snake.svg">
 </picture>
 
-## 🧠 Tecnologias que estou estudando
-
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-
-## ⚒️ Ferramentas que utilizo
-
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
 ## 📊 Minhas Estatísticas
 
 <table>
@@ -41,13 +29,30 @@
   </tr>
 </table>
 
-## 🏆 Destaques
+## 🏆 Conquistas e Streak
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=renancvitor&theme=onedark&no-frame=true&no-bg=true&column=4&title=Commits,Repositories,Experience,Followers)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-trophy.vercel.app/?username=renancvitor&theme=onedark&no-frame=true&no-bg=true&title=Commits,Repositories,Experience,Followers" alt="Trophies" height="200">
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=renancvitor&theme=radical" alt="GitHub Streak" height="200">
+    </td>
+  </tr>
+</table>
 
-## 🔥 GitHub Streak
+## 🛠️ Tecnologias e Ferramentas
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=renancvitor&theme=radical)
+### Linguagens e Frameworks
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+
+### IDEs e Ferramentas
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### 👀 Visitantes
 <img src="https://komarev.com/ghpvc/?username=renancvitor&color=blue&style=flat" alt="Contador de Visitantes">

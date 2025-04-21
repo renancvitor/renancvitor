@@ -10,16 +10,23 @@
 - 🤝 Adoro compartilhar conhecimento e colaborar em projetos.
 - 📫 Você pode me encontrar nas redes sociais abaixo.
 
-## 🧠 Tecnologias que estou estudando
-
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/renancvitor/renancvitor/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/renancvitor/renancvitor/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/renancvitor/renancvitor/output/github-contribution-grid-snake.svg">
 </picture>
+
+## 🧠 Tecnologias que estou estudando
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+
+## ⚒️ Ferramentas que utilizo
+
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📊 Minhas Estatísticas
 
@@ -38,6 +45,10 @@
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=renancvitor&theme=onedark&no-frame=true&no-bg=true&column=4&title=Commits,Repositories,Experience,Followers)
 
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=renancvitor&theme=radical)
+
 ### 👀 Visitantes
 <img src="https://komarev.com/ghpvc/?username=renancvitor&color=blue&style=flat" alt="Contador de Visitantes">
 
@@ -52,5 +63,3 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
-
-

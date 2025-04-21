@@ -18,10 +18,10 @@
 
 ## 📊 Minhas Estatísticas
 
-table>
+<table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renancvitor&layout=compact&theme=radical" alt="Linguagens mais usadas" height="175">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renancvitor&layout=compact&theme=radical" alt="Linguagens mais usadas" height="200">
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=renancvitor&show_icons=true&theme=radical" alt="Estatísticas do GitHub" height="200">
@@ -31,10 +31,10 @@ table>
 
 ## 🏆 Conquistas e Streak
 
-<<table>
+<table>
   <tr>
     <td colspan="2">
-      <img src="https://github-profile-trophy.vercel.app/?username=renancvitor&theme=onedark&no-frame=true&no-bg=true&column=4&margin-w=5&margin-h=5&title=Commits,Repositories,Experience,Followers" alt="Trophies" height="200">
+      <img src="https://github-profile-trophy.vercel.app/?username=renancvitor&theme=onedark&no-frame=true&no-bg=true&column=4&margin-w=5&margin-h=5&title=Commits,Repositories,Experience,Followers" alt="Trophies" height="175">
     </td>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=renancvitor&theme=radical&hide_border=true" alt="GitHub Streak" height="200">

@@ -33,10 +33,10 @@
 
 <table>
   <tr>
-    <td colspan="2">
+    <td colspan="2" style="border: 2px solid #ccc; padding: 5px;">
       <img src="https://github-profile-trophy.vercel.app/?username=renancvitor&theme=onedark&no-frame=true&no-bg=true&column=4&margin-w=5&margin-h=5&title=Commits,Repositories,Experience,Followers" alt="Trophies" height="155">
     </td>
-    <td>
+    <td style="border: 2px solid #ccc; padding: 5px;">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=renancvitor&theme=radical&hide_border=true" alt="GitHub Streak" height="200">
     </td>
   </tr>

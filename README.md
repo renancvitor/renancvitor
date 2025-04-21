@@ -10,6 +10,11 @@
 - 🤝 Adoro compartilhar conhecimento e colaborar em projetos.
 - 📫 Você pode me encontrar nas redes sociais abaixo.
 
+## 🧠 Tecnologias que estou estudando
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/renancvitor/renancvitor/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/renancvitor/renancvitor/output/github-contribution-grid-snake-dark.svg">

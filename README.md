@@ -3,11 +3,10 @@
 ## Sobre Mim
 
 - 🎓 Formado em Gestão da TI e graduando em Engenharia de Software.
-- 💻 Experiência acadêmica e pessoal com HTML, CSS, JavaScript e foco atual em Java.
-- 🌱 Aprofundando meus conhecimentos em desenvolvimento back-end.
+- 🌱 Aprofundando meus conhecimentos em desenvolvimento back-end, com foco atual em Java.
+- 💻 Experiência acadêmica e pessoal com HTML, CSS, JavaScript e Java.
 - 🚀 Buscando me tornar um desenvolvedor full stack.
 - 🤝 Apaixonado por tecnologia, colaboração e compartilhamento de conhecimento.
-- 📫 Você pode me encontrar nas redes sociais abaixo.
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/renancvitor/renancvitor/output/github-contribution-grid-snake-dark.svg">

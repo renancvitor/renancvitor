@@ -29,26 +29,17 @@
   </tr>
 </table>
 
-## 🏆 Conquistas e Streak
+## 🚀 Projeto em Destaque
 
-<table>
-  <tr>
-    <td colspan="2">
-      <img src="https://github-profile-trophy.vercel.app/?username=renancvitor&theme=onedark&no-frame=true&no-bg=true&column=4&margin-w=5&margin-h=5&title=Commits,Repositories,Experience,Followers" alt="Trophies" height="155">
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=renancvitor&theme=radical&hide_border=false" alt="GitHub Streak" height="200">
-    </td>
-  </tr>
-</table>
+- [Sistema Autorização de Pagamento](https://github.com/renancvitor/payment-authorization) - Sistema de requisições de pagamento com aprovação de gestores.
 
 ## 🛠️ Tecnologias e Ferramentas
 
-### Linguagens e Frameworks
+### 🧠 Atualmente me aprofundando em:
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
-### IDEs e Ferramentas
+### 🔧 IDEs e Ferramentas que utilizo no dia a dia:
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)

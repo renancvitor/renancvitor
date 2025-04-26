@@ -1,13 +1,12 @@
-## Olá, eu sou o Renan!👋
+# Renan Vitor | Desenvolvedor em formação 🚀
 
 ## Sobre Mim
 
-- 🌟 Sou um entusiasta de tecnologia e desenvolvimento de software.
-- 🎓 Formado em Gestão da Tecnologia da Informação e Graduando em Engenharia de Software.
-- 💻 Tenho noções em HTML, CSS, JavaScript e estou aprofundando meus estudos em Java.
-- 🌱 Atualmente, estou aprendendo desenvolvimento back-end.
-- 🚀 Meu objetivo é me tornar um desenvolvedor full stack.
-- 🤝 Adoro compartilhar conhecimento e colaborar em projetos.
+- 🎓 Formado em Gestão da TI e graduando em Engenharia de Software.
+- 💻 Experiência acadêmica e pessoal com HTML, CSS, JavaScript e foco atual em Java.
+- 🌱 Aprofundando meus conhecimentos em desenvolvimento back-end.
+- 🚀 Buscando me tornar um desenvolvedor full stack.
+- 🤝 Apaixonado por tecnologia, colaboração e compartilhamento de conhecimento.
 - 📫 Você pode me encontrar nas redes sociais abaixo.
 
 <picture align="center">
@@ -31,7 +30,9 @@
 
 ## 🚀 Projeto em Destaque
 
-- [Sistema Autorização de Pagamento](https://github.com/renancvitor/payment-authorization) - Sistema de requisições de pagamento com aprovação de gestores.
+### 🔹 Sistema de Autorização de Pagamento
+[Sistema Autorização de Pagamento](https://github.com/renancvitor/payment-authorization)  
+Sistema para geração e aprovação de requisições de pagamento por gestores.
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -45,11 +46,9 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### 👀 Visitantes
-<img src="https://komarev.com/ghpvc/?username=renancvitor&color=blue&style=flat" alt="Contador de Visitantes">
+## 📫 Onde me encontrar
 
-## 🌐 Entre em contato comigo 📫
-
+Sinta-se à vontade para entrar em contato! 😄
 <p>
   <a href="https://www.linkedin.com/in/renan-vitor-developer/" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -59,3 +58,10 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
+
+---
+
+<p align="center">  
+  <img src="https://komarev.com/ghpvc/?username=renancvitor&color=blue&style=flat" alt="Contador de Visitantes">
+</p>
+

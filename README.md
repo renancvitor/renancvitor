@@ -32,10 +32,8 @@
 ### 🔹 Controle Verbas — Sistema Full Stack
 Sistema para gerenciamento de usuários, departamentos, cargos e orçamentos, com autenticação e controle de permissões.
 
-- 🖥️ **[Frontend](https://github.com/renancvitor/controle-verbas-frontend) (Interface Web)**  
-  [![Frontend](https://img.shields.io/badge/React-TypeScript-blue)](https://github.com/renancvitor/controle-verbas-frontend)
-- ⚙️ **[Backend](https://github.com/renancvitor/controle-verbas-backend) (API REST)**  
-  [![Backend](https://img.shields.io/badge/Java-SpringBoot-red)](https://github.com/renancvitor/controle-verbas-backend)
+- 🖥️ **[Frontend](https://github.com/renancvitor/controle-verbas-frontend) (Interface Web)** — [![React-TypeScript](https://img.shields.io/badge/React-TypeScript-blue)](https://github.com/renancvitor/controle-verbas-frontend)  
+- ⚙️ **[Backend](https://github.com/renancvitor/controle-verbas-backend) (API REST)** — [![Java-SpringBoot](https://img.shields.io/badge/Java-SpringBoot-red)](https://github.com/renancvitor/controle-verbas-backend)
 
 ## 🛠️ Tecnologias e Ferramentas
 

@@ -32,30 +32,9 @@
 ### 🔹 Controle Verbas — Sistema Full Stack
 Sistema para gerenciamento de usuários, departamentos, cargos e orçamentos, com autenticação e controle de permissões.
 
-<table>
-<tr>
-    <td>🖥️ <a href="https://github.com/renancvitor/controle-verbas-frontend">Frontend (Interface Web)</a></td>
-    <td>
-        <a href="https://react.dev/">
-            <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React">
-        </a>
-        <a href="https://www.typescriptlang.org/">
-            <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" alt="TypeScript">
-        </a>
-    </td>
-</tr>
-<tr>
-    <td>⚙️ <a href="https://github.com/renancvitor/controle-verbas-backend">Backend (API REST)</a></td>
-    <td>
-        <a href="https://www.java.com/pt-BR/">
-            <img src="https://img.shields.io/badge/Java-FFA500?logo=openjdk&logoColor=white" alt="Java">
-        </a>
-        <a href="https://spring.io/projects/spring-boot">
-            <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring&logoColor=white" alt="Spring Boot">
-        </a>
-    </td>
-</tr>
-</table>
+| 🖥️ [Frontend (Interface Web)](https://github.com/renancvitor/controle-verbas-frontend) | ⚙️ [Backend (API REST)](https://github.com/renancvitor/controle-verbas-backend) |
+|---|---|
+| <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React"> <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" alt="TypeScript"> | <img src="https://img.shields.io/badge/Java-FFA500?logo=openjdk&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring&logoColor=white" alt="Spring Boot"> |
 
 ## 🛠️ Tecnologias e Ferramentas
 

@@ -34,7 +34,7 @@ Sistema para gerenciamento de usuários, departamentos, cargos e orçamentos, co
 
 | 🖥️ [Frontend (Interface Web)](https://github.com/renancvitor/controle-verbas-frontend) | ⚙️ [Backend (API REST)](https://github.com/renancvitor/controle-verbas-backend) |
 |---|---|
-| <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React"> <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" alt="TypeScript"> | <img src="https://img.shields.io/badge/Java-FFA500?logo=openjdk&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring&logoColor=white" alt="Spring Boot"> |
+| <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React"> <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" alt="TypeScript"> | <img src="https://img.shields.io/badge/%E2%98%95%20Java-ED8B00?logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring&logoColor=white" alt="Spring Boot"> |
 
 ## 🛠️ Tecnologias e Ferramentas
 

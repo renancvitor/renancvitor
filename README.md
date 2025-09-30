@@ -2,11 +2,13 @@
 
 ## Sobre Mim
 
-- 🎓 Formado em Gestão da TI e graduando em Engenharia de Software.
-- 🌱 Desenvolvedor Java em formação, com foco em backend e fullstack, aplicando Java, Spring Boot, APIs REST, JPA/Hibernate, SQL, Docker e Kafka em projetos práticos
-- 💻 Experiência acadêmica e pessoal com HTML, CSS, JavaScript e Java.
-- 🚀 Buscando me tornar um desenvolvedor full stack.
-- 🤝 Apaixonado por tecnologia, colaboração e compartilhamento de conhecimento.
+- 🎓 Formado em Gestão da TI e cursando Engenharia de Software, sou apaixonado por transformar ideias em soluções tecnológicas. Há quase 2 anos estudo e aplico Java, Spring Boot e desenvolvimento de backend, com foco em APIs REST, JPA/Hibernate, testes automatizados (JUnit/Mockito) e boas práticas de arquitetura.
+
+- 💻 Experiência prática em projetos fullstack, integrando frontend moderno (React/TypeScript ou Angular) com backend robusto, usando Docker CLI, Kafka/Zookeeper e bancos MySQL/PostgreSQL. Entre meus projetos no GitHub estão: Controle de Verbas, Sistema de Autorização de Pagamentos e FórumHub, demonstrando aplicação real de tecnologias e desenvolvimento de software completo.
+
+- 🚀 Busco oportunidades como Estagiário ou Desenvolvedor Júnior, contribuindo com conhecimento técnico, dedicação e aprendizado contínuo.
+
+- 🤝 Valorizo colaboração, tecnologia e soluções que fazem diferença, e mantenho meus projetos atualizados no GitHub.
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/renancvitor/renancvitor/output/github-contribution-grid-snake-dark.svg">

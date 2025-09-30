@@ -3,7 +3,7 @@
 ## Sobre Mim
 
 - 🎓 Formado em Gestão da TI e graduando em Engenharia de Software.
-- 🌱 Aprofundando meus conhecimentos em desenvolvimento back-end, com foco atual em Java.
+- 🌱 Desenvolvedor Java em formação, com foco em backend e fullstack, aplicando Java, Spring Boot, APIs REST, JPA/Hibernate, SQL, Docker e Kafka em projetos práticos
 - 💻 Experiência acadêmica e pessoal com HTML, CSS, JavaScript e Java.
 - 🚀 Buscando me tornar um desenvolvedor full stack.
 - 🤝 Apaixonado por tecnologia, colaboração e compartilhamento de conhecimento.
@@ -38,7 +38,7 @@ Sistema para gerenciamento de usuários, departamentos, cargos e orçamentos, co
 
 ## 🛠️ Tecnologias e Ferramentas
 
-### 🧠 Atualmente me aprofundando em:
+### 🧠 Principais tecnologias e competências:
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
@@ -50,7 +50,7 @@ Sistema para gerenciamento de usuários, departamentos, cargos e orçamentos, co
 
 ## 📫 Onde me encontrar
 
-Sinta-se à vontade para entrar em contato! 😄
+Confira meus projetos no GitHub e vamos nos conectar no LinkedIn! 😄
 <p>
   <a href="https://www.linkedin.com/in/renan-vitor-developer/" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">

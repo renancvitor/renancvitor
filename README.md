@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-- 🎓 Formado em Gestão da TI e cursando Engenharia de Software, sou apaixonado por transformar ideias em soluções tecnológicas. Há quase 2 anos estudo e aplico Java, Spring Boot e desenvolvimento de backend, com foco em APIs REST, JPA/Hibernate, testes automatizados (JUnit/Mockito) e boas práticas de arquitetura.
+- 🎓 Formado em Gestão da TI e cursando Engenharia de Software, sou apaixonado por transformar ideias em soluções tecnológicas. Há quase dois anos venho estudando e aplicando Java, Spring Boot e desenvolvimento de backend, com foco em APIs REST, JPA/Hibernate, testes automatizados (JUnit/Mockito) e boas práticas de arquitetura.
 
 - 💻 Experiência prática em projetos fullstack, integrando frontend moderno (React/TypeScript ou Angular) com backend robusto, usando Docker CLI, Kafka/Zookeeper e bancos MySQL/PostgreSQL. Entre meus projetos no GitHub estão: Controle de Verbas, Sistema de Autorização de Pagamentos e FórumHub, demonstrando aplicação real de tecnologias e desenvolvimento de software completo.
 
@@ -29,6 +29,7 @@
   </tr>
 </table>
 
+---
 ## 🚀 Projeto em Destaque
 
 ### 🔹 Controle Verbas — Sistema Full Stack
@@ -38,6 +39,20 @@ Sistema para gerenciamento de usuários, departamentos, cargos e orçamentos, co
 |---|---|
 | <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React"> <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" alt="TypeScript"> | <img src="https://img.shields.io/badge/%E2%98%95%20Java-ED8B00?logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring&logoColor=white" alt="Spring Boot"> |
 
+---
+## 📚 Outros Projetos Relevantes
+Além do Controle de Verbas, mantenho outros projetos que aplicam diferentes conceitos do desenvolvimento moderno:
+
+- **[FórumHub](https://github.com/renancvitor/challenge-forum-hub-api)** — API REST em Java e Spring Boot, com autenticação JWT e camadas de serviço e repositório bem definidas.
+- **[Sistema de Autorização de Pagamentos](https://github.com/renancvitor/payment-authorization)** — JavaFX de ponta a ponta, aplicativo desktop robusto e eficiente.
+
+---
+## 📦 Projeto Atual
+**[Sistema de Notificação de Estoque](https://github.com/renancvitor/inventory-notification-system-backend)** — implementação em andamento de um sistema para gerenciar estoque e enviar notificações automáticas e relatórios por e-mail, utilizando AWS SES.  
+
+> 💡 Projeto em desenvolvimento com foco em boas práticas de arquitetura, integração com serviços AWS.
+
+---
 ## 🛠️ Tecnologias e Ferramentas
 
 ### 🧠 Principais tecnologias e competências:
@@ -55,12 +70,14 @@ Sistema para gerenciamento de usuários, departamentos, cargos e orçamentos, co
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-8D6748?style=for-the-badge&logo=mockito&logoColor=white)
 
+---
 ### 🔧 IDEs e Ferramentas que utilizo no dia a dia:
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+---
 ## 📫 Onde me encontrar
 
 Confira meus projetos no GitHub e vamos nos conectar no LinkedIn! 😄

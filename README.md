@@ -21,10 +21,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renancvitor&layout=compact&theme=radical" alt="Linguagens mais usadas" height="200">
+      <img src="https://renancvitor-readme-stats.vercel.app/api/top-langs/?username=renancvitor&layout=compact&theme=radical" alt="Linguagens mais usadas" height="200">
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=renancvitor&show_icons=true&theme=radical" alt="Estatísticas do GitHub" height="200">
+      <img src="https://renancvitor-readme-stats.vercel.app/api?username=renancvitor&show_icons=true&theme=radical" alt="Estatísticas do GitHub" height="200">
     </td>
   </tr>
 </table>

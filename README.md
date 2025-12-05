@@ -69,6 +69,7 @@ Além do Controle de Verbas, mantenho outros projetos que aplicam diferentes con
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-8D6748?style=for-the-badge&logo=mockito&logoColor=white)
+![Delphi Pascal](https://img.shields.io/badge/Delphi%20Pascal-B22222?style=for-the-badge&logo=delphi&logoColor=white)
 
 ---
 ### 🔧 IDEs e Ferramentas que utilizo no dia a dia:

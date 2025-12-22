@@ -1,14 +1,14 @@
-# Renan Vitor | Desenvolvedor em formação 🚀
+# Renan Vitor | Desenvolvedor Java | Backend & APIs REST 🚀
 
 ## Sobre Mim
 
-- 🎓 Formado em Gestão da TI e cursando Engenharia de Software, sou apaixonado por transformar ideias em soluções tecnológicas. Há quase dois anos venho estudando e aplicando Java, Spring Boot e desenvolvimento de backend, com foco em APIs REST, JPA/Hibernate, testes automatizados (JUnit/Mockito) e boas práticas de arquitetura.
+- 🎓 Formado em Gestão da TI e cursando Engenharia de Software, atuo como Desenvolvedor Júnior e direciono minha evolução técnica para backend Java, com ênfase no desenvolvimento de APIs REST bem arquitetadas. Há quase dois anos estudo e aplico Java e Spring Boot, trabalhando com APIs REST, JPA/Hibernate, testes automatizados (JUnit/Mockito) e boas práticas de arquitetura.
 
-- 💻 Experiência prática em projetos fullstack, integrando frontend moderno (React/TypeScript ou Angular) com backend robusto, usando Docker CLI, Kafka/Zookeeper e bancos MySQL/PostgreSQL. Entre meus projetos no GitHub estão: Controle de Verbas, Sistema de Autorização de Pagamentos e FórumHub, demonstrando aplicação real de tecnologias e desenvolvimento de software completo.
+- 💻 Tenho experiência prática no desenvolvimento de aplicações backend e fullstack, integrando frontend moderno (React/TypeScript ou Angular) com backends robustos. Utilizo Docker, Kafka/Zookeeper e bancos relacionais como MySQL e PostgreSQL em projetos reais disponíveis neste GitHub.
 
-- 🚀 Busco oportunidades como Estagiário ou Desenvolvedor Júnior, contribuindo com conhecimento técnico, dedicação e aprendizado contínuo.
+- 🚀 Tenho interesse em oportunidades como Desenvolvedor Java Backend, onde eu possa evoluir tecnicamente, aprender com times experientes e contribuir com código de qualidade.
 
-- 🤝 Valorizo colaboração, tecnologia e soluções que fazem diferença, e mantenho meus projetos atualizados no GitHub.
+- 🤝 Valorizo colaboração, aprendizado contínuo e soluções bem construídas. Meus projetos aqui refletem minha evolução técnica e minha paixão por desenvolvimento de software.
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/renancvitor/renancvitor/output/github-contribution-grid-snake-dark.svg">
@@ -47,8 +47,8 @@ Além do Controle de Verbas, mantenho outros projetos que aplicam diferentes con
 - **[Sistema de Autorização de Pagamentos](https://github.com/renancvitor/payment-authorization)** — JavaFX de ponta a ponta, aplicativo desktop robusto e eficiente.
 
 ---
-## 📦 Projeto Atual
-**[Sistema de Notificação de Estoque](https://github.com/renancvitor/inventory-notification-system-backend)** — implementação em andamento de um sistema para gerenciar estoque e enviar notificações automáticas e relatórios por e-mail, utilizando AWS SES.  
+## 📦 Projeto em desenvolvimento
+**[Sistema de Notificação de Estoque](https://github.com/renancvitor/inventory-notification-system-backend)** — implementação em andamento de um sistema para gerenciamento de estoque e envio de notificações automáticas e relatórios por e-mail, com foco em boas práticas de arquitetura, separação de responsabilidades e integração com serviços AWS (SES).  
 
 > 💡 Projeto em desenvolvimento com foco em boas práticas de arquitetura, integração com serviços AWS.
 

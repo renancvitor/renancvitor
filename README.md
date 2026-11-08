@@ -1,13 +1,12 @@
-# Renan Vitor | Desenvolvedor Java | Backend & APIs REST 🚀
+# Renan Vitor | Desenvolvedor Full Stack | Java & Angular
 
 ## Sobre Mim
 
-Desenvolvedor Java com foco em backend e construção de APIs REST bem estruturadas.  
-Tenho direcionado meus estudos para compreender não apenas como implementar funcionalidades, mas por que determinadas decisões técnicas fazem sentido em cada contexto.
+Sou desenvolvedor de software com atuação profissional em Java e Angular, trabalhando no desenvolvimento e manutenção de aplicações web, APIs REST e interfaces de usuário.
 
-Atualmente concentro minha evolução no ecossistema Java — Spring Framework, JPA/Hibernate e testes automatizados — utilizando projetos práticos como forma de desenvolver organização de código, separação de responsabilidades e clareza na lógica de negócio.
+Atualmente, concentro minha evolução técnica no ecossistema Java, Spring Boot, Angular e TypeScript, buscando compreender as decisões de arquitetura, a organização do código e as boas práticas que contribuem para aplicações sustentáveis.
 
-Busco evoluir com consistência, evitando complexidade desnecessária e priorizando código legível, organizado e sustentável ao longo do tempo.
+Também desenvolvo projetos pessoais para aprofundar conhecimentos em modelagem de domínio, testes automatizados, segurança e integração entre frontend e backend.
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/renancvitor/renancvitor/output/github-contribution-grid-snake-dark.svg">
